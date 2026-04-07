@@ -6,7 +6,7 @@ A modern, clean architecture template for .NET applications following domain-dri
 ## 🏗️ Architecture Overview
 
 ```
-CleanArchitectureDemo/
+CleanArchitectureAPI/
 ├── Domain/             # Enterprise/domain entities & business rules
 ├── Application/        # Business logic & use cases
 ├── Infrastructure/     # External concerns (database, file systems, etc.)
@@ -57,8 +57,8 @@ CleanArchitectureDemo/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/JenilSojitra/CleanArchitectureDemo.git
-cd CleanArchitectureDemo
+git clone https://github.com/waseempk/CleanArchitectureAPI.git
+cd CleanArchitectureAPI
 ```
 
 2. Build the solution
